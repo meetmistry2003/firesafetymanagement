@@ -1,0 +1,21 @@
+.mybtn {
+    background-color: rgba(217,225,242,1.0); /* white */
+    background-color: rgba(0, 210, 33, 0.8);/* green */
+    background-color: rgba(255, 0, 0, 0.8);/* red */
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 0;
+  }
+  .tf{
+    margin-left: 80px;
+  }
+
+  .rcb
+  {
+    font-size: 40px;
+  }
+  .td{
+    text-align: center;
+  }
